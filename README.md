@@ -1,4 +1,4 @@
-![alt text](https://github.com/ha-k/pics-and-logos/blob/master/haklt-logo-very-small.jpg "HAK Language Technologies logo")
+![alt text](https://github.com/ha-k/pics-and-logos/blob/master/haklt-logo-very-small.png "HAK Language Technologies logo")
 ## HAK Language Technology Java [hlt.language.*] packages(https://hassan-ait-kaci.net/hlt/doc/hlt/api/overview-summary.html)
 
 ### Pointers to the repositories containing the Java code, documentation, and ancillary files for:
