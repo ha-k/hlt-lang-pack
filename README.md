@@ -1,6 +1,6 @@
 ## HAK Language Technology Java [hlt.language.*] packages(https://hassan-ait-kaci.net/hlt/doc/hlt/api/overview-summary.html)
 
-Contains the Java code, documentation, and ancillary files for:
+### Pointers to the repositories containing the Java code, documentation, and ancillary files for:
 
  https://github.com/ha-k/hak-lang-io
  
@@ -10,7 +10,7 @@ Contains the Java code, documentation, and ancillary files for:
  
  https://github.com/ha-k/hak-lang-syntax  
 
-and for the following language-implementation examples of [JACC applications](https://github.com/ha-k/jacc-apps):
+### Pointers to repositories containing the Java and JACC code of following language-implementation examples of [JACC applications](https://github.com/ha-k/jacc-apps):
 
   Calculator - tutorial JACC example - https://github.com/ha-k/jaccapps-calc
 
